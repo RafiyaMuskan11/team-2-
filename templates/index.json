@@ -175,11 +175,40 @@
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "a589807a-12c2-48d1-a5a9-99307e865144": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "f6af433e-b4fc-4b3d-bc14-6744e84df66a",
     "featured_collection",
-    "88b23214-b165-41a4-aefb-36c53d9d4daf"
+    "88b23214-b165-41a4-aefb-36c53d9d4daf",
+    "a589807a-12c2-48d1-a5a9-99307e865144"
   ]
 }
